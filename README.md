@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mudassir-Nawaz
-- 👀 I’m interested in web dev.
-- 🌱 I’m currently learning CSS,JS
+- 👀 I’m interested in front-end development.
+- 🌱 I’m currently learning JS and Bootstrap/Tailwind.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? Email: mudassirnawazjavaid@gmail.com
 
