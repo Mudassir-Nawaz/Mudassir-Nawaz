@@ -24,17 +24,17 @@
 </h1>
 
 ### :hammer_and_wrench: Languages and Tools :
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50px" height="50px" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50px" height="50px" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50px" height="50px" /> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-original-wordmark.svg" width="50px" height="50px" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original.svg" width="50px" height="50px" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="50px" height="50px" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50px" height="50px" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="50px" height="50px" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="50px" height="50px" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="50px" height="50px" />  
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="90px" height="90px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="90px" height="90px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="90px" height="90px" /> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-original-wordmark.svg" width="90px" height="90px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original.svg" width="90px" height="90px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="90px" height="90px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="90px" height="90px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="90px" height="90px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="90px" height="90px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="90px" height="90px" />  
 </div>
 
 <!--
